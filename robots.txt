@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sportanyar.github.io/sitemap.xml
